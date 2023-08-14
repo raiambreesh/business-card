@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic{
+    width:150px;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    /* background: #ddebf8; */
+    color: #2b2839;
+    border-bottom: 8px solid #d8cefe;
+    background-image: url("https://wallpaperaccess.com/full/4660813.jpg");
+}
+.border-blue{
+    border: 2px solid black;
+    
+
+}
